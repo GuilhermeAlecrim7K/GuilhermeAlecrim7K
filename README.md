@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @GuilhermeAlecrim7K
-- 👀 I’m interested in learning new things so that I can decide what path I'm going to take in my Programming Career. I started my graduation in IT Systems in Feb, 2021 and it's
-      been a wonderful journey. 
-- 🌱 I’m currently learning Programming Logic, C++, Python and Github, among other things.
-- 💞️ I’m looking to collaborate on anywhere I might have something to add.
-- 📫 How to reach me: Linkedin - @guilhermealecrim96 // Email: guilhermealecrim96@gmail.com
+- 👋 Olá, meu nome é Guilherme
+- 👀 Estou atualmente interessado em aprender mais sobre programação para decidir qual será minha área de atuação futuramente. Inicialmente gosto da ideia de trabalhar com dados e no desenvolvimento de novas aplicações, mas não rejeito nenhuma outra possibilidade. 😁
+- 🌱 Estou no começo da minha jornada de aprendizado. Comecei em Fevereiro de 2021 minha graduação em Sistemas de Informação pela UNI7 e atualmente estou aprendendo Lógica de Programação, C++, Python (por conta própria) e como utilizar o Github, entre outras coisas.
+- 📚 Busco utilizar o Github para construir meu portfólio e colaborar onde meus conhecimentos possam ser úteis!
+- 📫 Informações de contato: Linkedin - @guilhermealecrim96 // Email: guilhermealecrim96@gmail.com
 
 <!---
 GuilhermeAlecrim7K/GuilhermeAlecrim7K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
