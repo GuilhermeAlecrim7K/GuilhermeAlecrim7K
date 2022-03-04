@@ -14,5 +14,5 @@ Some of the languages I've studied / worked with:
 
 📞 Contact Information:
 
->LinkedIn: [GuilhermeAlecrim7k](linkedin.com/guilhermealecrim7k) <br>
+>LinkedIn: [GuilhermeAlecrim7k](linkedin.com/in/guilhermealecrim7k) <br>
 >Email: guilhermealecrim96@gmail.com
