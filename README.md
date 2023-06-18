@@ -1,9 +1,7 @@
-## Hi, Guilherme Alecrim here 👋
-
-- I'm on the third semester of my IT Systems graduation at Uni7.
-- As of August, 2022, I'm studying Dart and Flutter. 
-- Currently working as a Trainee Delphi Developer for Fortes Tecnologia. We develop desktop-based solutions for the management of the financial, accounting, people and logistics areas.
-- My current objective is to learn more about Data Structures and Algorithmic Complexity, Object Orientation and Design Patterns.
+- I'm on the fourth semester of my Computer Science graduation at Cruzeiro do Sul.
+- As of June, 2023, I'm studying Flutter.
+- Currently working as a Junior Delphi Developer for Fortes Tecnologia. We develop desktop-based solutions for the management of the financial, accounting, people and logistics areas.
+- My current objective is to learn more about Design Patterns, FireBase and NoSQL.
 
 Some of the languages I've studied / worked with:
 
