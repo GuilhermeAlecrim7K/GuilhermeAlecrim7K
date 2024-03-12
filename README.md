@@ -1,7 +1,6 @@
 - I'm on the fourth semester of my Computer Science graduation at Cruzeiro do Sul.
-- As of June, 2023, I'm studying Flutter.
 - Currently working as a Junior Delphi Developer for Fortes Tecnologia. We develop desktop-based solutions for the management of the financial, accounting, people and logistics areas.
-- My current objective is to learn more about Design Patterns, FireBase and NoSQL.
+- My current objective is to learn more about Design Patterns, LSPs and Neovim.
 
 Some of the languages I've studied / worked with:
 
