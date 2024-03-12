@@ -1,4 +1,4 @@
-- I'm on the fourth semester of my Computer Science graduation at Cruzeiro do Sul.
+- I'm on the sixth semester of my Computer Science graduation at Cruzeiro do Sul.
 - Currently working as a Junior Delphi Developer for Fortes Tecnologia. We develop desktop-based solutions for the management of the financial, accounting, people and logistics areas.
 - My current objective is to learn more about Design Patterns, LSPs and Neovim.
 
